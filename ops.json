@@ -4,5 +4,17 @@
     "name": "weitsungyu",
     "level": 4,
     "bypassesPlayerLimit": true
+  },
+  {
+    "uuid": "b7afebd3-3094-411d-af24-6f9344ba4f10",
+    "name": "Kong_Yin",
+    "level": 2,
+    "bypassesPlayerLimit": true
+  },
+  {
+    "uuid": "553ecaeb-bdf4-4ca8-9eaf-3cde433eaab4",
+    "name": "JOBstear",
+    "level": 2,
+    "bypassesPlayerLimit": true
   }
 ]
