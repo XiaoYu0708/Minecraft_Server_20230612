@@ -1,28 +1,76 @@
-[12:06:06] [main/INFO]: Loading Minecraft 1.20 with Fabric Loader 0.14.21
-[12:06:06] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
-[12:06:06] [main/INFO]: Loading 3 mods:
+[12:27:48] [main/INFO]: Loading Minecraft 1.20 with Fabric Loader 0.14.21
+[12:27:48] [main/INFO]: Loading 7 mods:
+	- carpet 1.4.112+v230608
 	- fabricloader 0.14.21
+	- fatxporbs 2.0.1
 	- java 17
+	- lithium 0.11.2
 	- minecraft 1.20
-[12:06:06] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/Minecraft_Server_20230612/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[12:06:12] [main/ERROR]: Failed to load properties from file: server.properties
-java.nio.file.NoSuchFileException: server.properties
-	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
-	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
-	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
-	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218) ~[?:?]
-	at java.nio.file.Files.newByteChannel(Files.java:380) ~[?:?]
-	at java.nio.file.Files.newByteChannel(Files.java:432) ~[?:?]
-	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:422) ~[?:?]
-	at java.nio.file.Files.newInputStream(Files.java:160) ~[?:?]
-	at net.minecraft.class_3808.method_16727(class_3808.java:62) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3806.method_16714(class_3806.java:137) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3807.<init>(class_3807.java:12) ~[server-intermediary.jar:?]
-	at net.minecraft.server.Main.main(Main.java:115) ~[server-intermediary.jar:?]
-	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-mc.1.20-loader.0.14.21-launcher.0.11.2.jar:0.11.2]
-[12:06:12] [main/WARN]: Failed to load eula.txt
-[12:06:12] [main/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+	- starlight 1.1.2+fabric.dbc156f
+[12:27:48] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/Minecraft_Server_20230612/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[12:27:48] [main/INFO]: Compatibility level set to JAVA_17
+[12:27:48] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 0 override(s) found
+[12:27:57] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:27:57] [main/INFO]: Found new data pack file/xiaoyu, loading it automatically
+[12:27:59] [main/INFO]: Loaded 7 recipes
+[12:27:59] [main/INFO]: Loaded 1271 advancements
+[12:28:00] [Server thread/INFO]: Starting minecraft server version 1.20
+[12:28:00] [Server thread/INFO]: Loading properties
+[12:28:00] [Server thread/INFO]: Default game type: SURVIVAL
+[12:28:00] [Server thread/INFO]: Generating keypair
+[12:28:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:28:00] [Server thread/INFO]: Using epoll channel type
+[12:28:00] [Server thread/INFO]: Preparing level "world"
+[12:28:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:28:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:28:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:28:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:28:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:28:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:28:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:28:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:28:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:28:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:28:08] [Worker-Main-3/INFO]: Preparing spawn area: 11%
+[12:28:09] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[12:28:09] [Server thread/INFO]: Time elapsed: 5331 ms
+[12:28:09] [Server thread/INFO]: Done (9.243s)! For help, type "help"
+[12:28:11] [User Authenticator #1/INFO]: UUID of player weitsungyu is 3cf5f1a5-0fb5-4ed6-bca0-539907f92da8
+[12:28:11] [Server thread/INFO]: weitsungyu[/127.0.0.1:50172] logged in with entity id 198 at (-64.93971817978807, 71.0, -70.88993996700403)
+[12:28:12] [Server thread/INFO]: weitsungyu joined the game
+[12:28:18] [Server thread/INFO]: [weitsungyu: Set own game mode to Spectator Mode]
+[12:28:19] [Server thread/INFO]: [weitsungyu: Set own game mode to Survival Mode]
+[12:28:21] [Server thread/INFO]: [weitsungyu: Set own game mode to Creative Mode]
+[12:28:38] [Server thread/INFO]: [weitsungyu: Disabling data pack [file/xiaoyu (world)]]
+[12:28:38] [Server thread/INFO]: Loaded 7 recipes
+[12:28:38] [Server thread/INFO]: Loaded 1271 advancements
+[12:28:45] [Server thread/INFO]: [weitsungyu: Enabling data pack [file/xiaoyu (world)]]
+[12:28:45] [Server thread/INFO]: Loaded 7 recipes
+[12:28:45] [Server thread/INFO]: Loaded 1271 advancements
+[12:28:48] [Server thread/INFO]: [weitsungyu: Set own game mode to Spectator Mode]
+[12:28:48] [Server thread/INFO]: [weitsungyu: Set own game mode to Creative Mode]
+[12:30:19] [Server thread/INFO]: [weitsungyu: Reloading!]
+[12:30:19] [Server thread/INFO]: Loaded 7 recipes
+[12:30:19] [Server thread/INFO]: Loaded 1271 advancements
+[12:30:22] [Server thread/INFO]: [weitsungyu: Set own game mode to Creative Mode]
+[12:30:24] [Server thread/INFO]: [weitsungyu: Set own game mode to Creative Mode]
+[12:30:27] [Server thread/INFO]: [weitsungyu: Set own game mode to Survival Mode]
+[12:30:31] [Server thread/INFO]: [weitsungyu: Set own game mode to Creative Mode]
+[12:30:33] [Server thread/INFO]: [weitsungyu: Set own game mode to Survival Mode]
+[12:30:56] [Server thread/INFO]: [weitsungyu: Reloading!]
+[12:30:56] [Server thread/INFO]: Loaded 7 recipes
+[12:30:56] [Server thread/INFO]: Loaded 1271 advancements
+[12:31:06] [Server thread/INFO]: Reloading!
+[12:31:06] [Server thread/INFO]: Loaded 7 recipes
+[12:31:06] [Server thread/INFO]: Loaded 1271 advancements
+[12:31:15] [Server thread/INFO]: Stopping the server
+[12:31:15] [Server thread/INFO]: Stopping server
+[12:31:15] [Server thread/INFO]: Saving players
+[12:31:15] [Server thread/INFO]: Saving worlds
+[12:31:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:31:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:31:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:31:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:31:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:31:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:31:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
