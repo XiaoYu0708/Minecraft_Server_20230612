@@ -12,6 +12,8 @@
       "minecraft:frozen_river": "2023-06-12 15:47:11 +0000",
       "minecraft:cherry_grove": "2023-06-12 16:25:51 +0000",
       "minecraft:birch_forest": "2023-06-12 15:27:54 +0000",
+      "minecraft:wooded_badlands": "2023-06-21 16:46:27 +0000",
+      "minecraft:badlands": "2023-06-21 16:50:23 +0000",
       "minecraft:beach": "2023-06-12 15:13:26 +0000",
       "minecraft:dark_forest": "2023-06-12 15:40:22 +0000",
       "minecraft:river": "2023-06-12 15:14:54 +0000",
@@ -25,10 +27,12 @@
       "minecraft:lush_caves": "2023-06-13 17:48:56 +0000",
       "minecraft:deep_cold_ocean": "2023-06-12 15:43:24 +0000",
       "minecraft:frozen_ocean": "2023-06-12 15:46:14 +0000",
+      "minecraft:desert": "2023-06-21 16:34:49 +0000",
       "minecraft:deep_frozen_ocean": "2023-06-12 15:43:54 +0000",
       "minecraft:ocean": "2023-06-12 15:41:01 +0000",
       "minecraft:old_growth_spruce_taiga": "2023-06-13 18:33:15 +0000",
       "minecraft:snowy_beach": "2023-06-12 15:47:22 +0000",
+      "minecraft:warm_ocean": "2023-06-21 16:46:35 +0000",
       "minecraft:meadow": "2023-06-12 15:37:19 +0000",
       "minecraft:plains": "2023-06-12 15:13:07 +0000"
     },
@@ -293,6 +297,7 @@
       "minecraft:creeper": "2023-06-14 15:40:38 +0000",
       "minecraft:slime": "2023-06-13 18:41:07 +0000",
       "minecraft:witch": "2023-06-12 15:19:21 +0000",
+      "minecraft:husk": "2023-06-21 16:42:12 +0000",
       "minecraft:piglin": "2023-06-15 18:28:49 +0000",
       "minecraft:zombie": "2023-06-12 15:16:47 +0000",
       "minecraft:zombie_villager": "2023-06-13 18:02:45 +0000"
@@ -2069,6 +2074,90 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2023-06-15 18:46:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2023-06-21 15:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2023-06-21 16:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2023-06-21 16:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2023-06-21 16:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2023-06-21 16:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2023-06-21 16:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2023-06-21 16:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2023-06-21 16:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2023-06-21 16:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2023-06-21 16:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2023-06-21 16:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2023-06-21 16:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2023-06-21 16:48:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2023-06-21 16:48:59 +0000"
     },
     "done": true
   },
