@@ -1,5 +1,5 @@
-[15:20:50] [main/INFO]: Loading Minecraft 1.20 with Fabric Loader 0.14.21
-[15:20:50] [main/INFO]: Loading 7 mods:
+[17:06:38] [main/INFO]: Loading Minecraft 1.20 with Fabric Loader 0.14.21
+[17:06:38] [main/INFO]: Loading 7 mods:
 	- carpet 1.4.112+v230608
 	- fabricloader 0.14.21
 	- fatxporbs 2.0.1
@@ -7,173 +7,148 @@
 	- lithium 0.11.2
 	- minecraft 1.20
 	- starlight 1.1.2+fabric.dbc156f
-[15:20:50] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/Minecraft_Server_20230612/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[15:20:50] [main/INFO]: Compatibility level set to JAVA_17
-[15:20:50] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 0 override(s) found
-[15:20:58] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:21:01] [main/INFO]: Loaded 7 recipes
-[15:21:01] [main/INFO]: Loaded 1271 advancements
-[15:21:01] [Server thread/INFO]: Starting minecraft server version 1.20
-[15:21:01] [Server thread/INFO]: Loading properties
-[15:21:01] [Server thread/INFO]: Default game type: SURVIVAL
-[15:21:01] [Server thread/INFO]: Generating keypair
-[15:21:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:21:01] [Server thread/INFO]: Using epoll channel type
-[15:21:02] [Server thread/INFO]: Preparing level "world"
-[15:21:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:21:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:21:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:21:09] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:21:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:21:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[15:21:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:21:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:21:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:21:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:21:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[15:21:11] [Worker-Main-3/INFO]: Preparing spawn area: 1%
-[15:21:11] [Worker-Main-3/INFO]: Preparing spawn area: 10%
-[15:21:12] [Worker-Main-3/INFO]: Preparing spawn area: 38%
-[15:21:12] [Worker-Main-3/INFO]: Preparing spawn area: 86%
-[15:21:12] [Server thread/INFO]: Time elapsed: 6586 ms
-[15:21:12] [Server thread/INFO]: Done (10.553s)! For help, type "help"
-[15:21:27] [User Authenticator #1/INFO]: UUID of player JOBstear is 553ecaeb-bdf4-4ca8-9eaf-3cde433eaab4
-[15:21:27] [Server thread/INFO]: JOBstear[/[0:0:0:0:0:0:0:1%0]:46258] logged in with entity id 183 at (-183.12575623836156, 69.0, -348.6456055520391)
-[15:21:27] [Server thread/INFO]: JOBstear joined the game
-[15:22:44] [User Authenticator #2/INFO]: UUID of player Kong_Yin is b7afebd3-3094-411d-af24-6f9344ba4f10
-[15:22:44] [Server thread/INFO]: Kong_Yin[/[0:0:0:0:0:0:0:1%0]:42118] logged in with entity id 210 at (-174.7618200443908, 70.0, -351.30000001192093)
-[15:22:44] [Server thread/INFO]: Kong_Yin joined the game
-[15:25:07] [Server thread/INFO]: Kong_Yin lost connection: Disconnected
-[15:25:07] [Server thread/INFO]: Kong_Yin left the game
-[15:28:13] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[15:32:44] [User Authenticator #3/INFO]: UUID of player Kong_Yin is b7afebd3-3094-411d-af24-6f9344ba4f10
-[15:32:44] [Server thread/INFO]: Kong_Yin[/[0:0:0:0:0:0:0:1%0]:39246] logged in with entity id 1448 at (-175.05843619078706, 70.0, -351.3864532487506)
-[15:32:44] [Server thread/INFO]: Kong_Yin joined the game
-[15:36:39] [Server thread/INFO]: [JOBstear: Applied effect Regeneration to Kong_Yin]
-[15:38:28] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[15:38:31] [Server thread/INFO]: [Kong_Yin: Set own game mode to Creative Mode]
-[15:38:44] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[15:39:41] [Server thread/INFO]: [JOBstear: Executed 1 command(s) from function 'xiaoyu:creative_check']
-[15:39:47] [Server thread/INFO]: [JOBstear: Set own game mode to Creative Mode]
-[15:39:49] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[15:40:14] [Server thread/INFO]: [JOBstear: Gave 1 [Beetroot] to Kong_Yin]
-[15:40:24] [Server thread/INFO]: [JOBstear: Gave 1 [Beehive] to Kong_Yin]
-[15:40:38] [Server thread/INFO]: [JOBstear: Gave 1 [Bee Nest] to Kong_Yin]
-[15:40:58] [Server thread/INFO]: [JOBstear: Gave 128 [Beetroot] to Kong_Yin]
-[15:42:55] [Server thread/INFO]: CrazyFace[local] logged in with entity id 3914 at (-175.69999998807907, 70.0, -352.69999998807907)
-[15:42:55] [Server thread/INFO]: CrazyFace joined the game
-[15:43:08] [Server thread/INFO]: [JOBstear: Applied effect Speed to 3 targets]
-[15:44:23] [Server thread/INFO]: [JOBstear: Teleported JOBstear to Kong_Yin]
-[15:47:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=97, y=121, z=-520} class_2338{x=96, y=119, z=-519}
-[15:47:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=97, y=121, z=-520} class_2338{x=96, y=119, z=-519}
-[15:51:29] [Server thread/INFO]: [JOBstear: Teleported JOBstear to CrazyFace]
-[15:55:48] [Server thread/INFO]: [Kong_Yin: Teleported Kong_Yin to JOBstear]
-[15:56:10] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[15:56:21] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[15:56:30] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[15:56:35] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[15:56:46] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[15:56:57] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[15:57:03] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[15:57:07] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[15:57:17] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[15:57:21] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[15:57:34] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[15:58:15] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:02:33] [Server thread/INFO]: [JOBstear: Teleported JOBstear to CrazyFace]
-[16:02:52] [Server thread/INFO]: [JOBstear: Teleported JOBstear to Kong_Yin]
-[16:02:59] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[16:03:04] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[16:03:35] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:03:36] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:04:55] [Server thread/INFO]: [JOBstear: Summoned new Llama Spit]
-[16:05:59] [Server thread/INFO]: [JOBstear: Summoned new Villager]
-[16:06:07] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:06:42] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[16:06:56] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[16:07:11] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:09:20] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:09:22] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:15:13] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:20:44] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:22:46] [Server thread/INFO]: [JOBstear: Set own game mode to Adventure Mode]
-[16:22:47] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:23:42] [Server thread/INFO]: [JOBstear: Set own game mode to Adventure Mode]
-[16:23:47] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:25:36] [Server thread/INFO]: [JOBstear: Gave 468 [Stripped Acacia Wood] to Kong_Yin]
-[16:28:30] [Server thread/INFO]: [JOBstear: Gave 1 [Stripped Spruce Wood] to Kong_Yin]
-[16:28:50] [Server thread/INFO]: [JOBstear: Gave 1 [Stripped Cherry Wood] to Kong_Yin]
-[16:29:12] [Server thread/INFO]: [JOBstear: Gave 1 [Stripped Cherry Log] to Kong_Yin]
-[16:29:17] [Server thread/INFO]: [JOBstear: Gave 467 [Stripped Cherry Log] to Kong_Yin]
-[16:33:41] [Server thread/INFO]: [JOBstear: Teleported JOBstear to 626.500000, 80.000000, 85.500000]
-[16:33:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4317ms or 86 ticks behind
-[16:34:22] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:34:46] [Server thread/INFO]: [JOBstear: Teleported JOBstear to -3627.500000, 67.000000, -4084.500000]
-[16:34:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
-[16:34:53] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:35:31] [Server thread/INFO]: [JOBstear: Gave 1 [Saddle] to JOBstear]
-[16:36:27] [Server thread/INFO]: <Kong_Yin> 等等喔!
-[16:36:53] [Server thread/INFO]: <Kong_Yin> 我去打我弟
-[16:36:59] [Server thread/INFO]: <JOBstear> www
-[16:39:08] [Server thread/WARN]: Camel (vehicle of JOBstear) moved wrongly! 0.3146293422882991
-[16:39:08] [Server thread/WARN]: Camel (vehicle of JOBstear) moved wrongly! 0.7417593571653924
-[16:39:08] [Server thread/WARN]: Camel (vehicle of JOBstear) moved wrongly! 1.0583326710948313
-[16:40:21] [Server thread/INFO]: [Kong_Yin: Set the time to 1000]
-[16:40:31] [Server thread/INFO]: [Kong_Yin: Set the weather to clear]
-[16:40:33] [Server thread/INFO]: [Kong_Yin: Teleported Kong_Yin to JOBstear]
-[16:44:55] [Server thread/INFO]: Kong_Yin lost connection: Disconnected
-[16:44:55] [Server thread/INFO]: Kong_Yin left the game
-[16:45:13] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:45:23] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:45:25] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:45:59] [User Authenticator #4/INFO]: UUID of player Kong_Yin is b7afebd3-3094-411d-af24-6f9344ba4f10
-[16:45:59] [Server thread/INFO]: Kong_Yin[/[0:0:0:0:0:0:0:1%0]:35346] logged in with entity id 20981 at (-3647.688456990049, 72.0, -4130.453621152874)
-[16:45:59] [Server thread/INFO]: Kong_Yin joined the game
-[16:46:22] [Server thread/INFO]: Kong_Yin lost connection: Disconnected
-[16:46:22] [Server thread/INFO]: Kong_Yin left the game
-[16:46:29] [Server thread/WARN]: JOBstear moved too quickly! -9.455749701136483,3.36826624202709,-2.5635978348273056
-[16:46:30] [Server thread/WARN]: JOBstear moved too quickly! -9.475644973139424,4.123780166032816,-1.9637759938809722
-[16:46:39] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:46:56] [User Authenticator #5/INFO]: UUID of player Kong_Yin is b7afebd3-3094-411d-af24-6f9344ba4f10
-[16:46:56] [Server thread/INFO]: Kong_Yin[/[0:0:0:0:0:0:0:1%0]:43652] logged in with entity id 22125 at (-3648.2959100172234, 72.0, -4132.83754536553)
-[16:46:56] [Server thread/INFO]: Kong_Yin joined the game
-[16:47:03] [Server thread/INFO]: Kong_Yin lost connection: Disconnected
-[16:47:03] [Server thread/INFO]: Kong_Yin left the game
-[16:47:09] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:47:11] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:47:16] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:47:19] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:47:52] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:48:00] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:48:06] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:48:18] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:48:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18402ms or 368 ticks behind
-[16:48:37] [Server thread/INFO]: JOBstear lost connection: Disconnected
-[16:48:37] [Server thread/INFO]: JOBstear left the game
-[16:48:37] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:48:43] [User Authenticator #6/INFO]: UUID of player JOBstear is 553ecaeb-bdf4-4ca8-9eaf-3cde433eaab4
-[16:48:43] [Server thread/INFO]: JOBstear[/[0:0:0:0:0:0:0:1%0]:57580] logged in with entity id 22973 at (-4190.368515348044, 57.0, -3694.9436191402847)
-[16:48:43] [Server thread/INFO]: JOBstear joined the game
-[16:49:14] [Server thread/INFO]: [JOBstear: Set own game mode to Creative Mode]
-[16:49:36] [Server thread/INFO]: [JOBstear: Set own game mode to Creative Mode]
-[16:49:39] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:49:47] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:50:17] [Server thread/INFO]: Villager class_1646['Villager'/23787, l='ServerLevel[world]', x=-3696.63, y=64.00, z=-3520.28] died, message: 'Villager suffocated in a wall'
-[16:50:26] [Server thread/INFO]: Villager class_1646['Villager'/23792, l='ServerLevel[world]', x=-3689.72, y=64.00, z=-3519.63] died, message: 'Villager suffocated in a wall'
-[16:50:33] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:51:22] [Server thread/INFO]: [JOBstear: Set the time to 1000]
-[16:53:28] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:53:31] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:53:36] [Server thread/INFO]: JOBstear lost connection: Disconnected
-[16:53:36] [Server thread/INFO]: JOBstear left the game
-[16:56:06] [Server thread/INFO]: Stopping the server
-[16:56:06] [Server thread/INFO]: Stopping server
-[16:56:06] [Server thread/INFO]: Saving players
-[16:56:06] [Server thread/INFO]: Saving worlds
-[16:56:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:56:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:56:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:56:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:56:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:56:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:56:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:06:38] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/Minecraft_Server_20230612/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[17:06:38] [main/INFO]: Compatibility level set to JAVA_17
+[17:06:39] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 0 override(s) found
+[17:06:47] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:06:49] [main/INFO]: Loaded 7 recipes
+[17:06:49] [main/INFO]: Loaded 1271 advancements
+[17:06:49] [Server thread/INFO]: Starting minecraft server version 1.20
+[17:06:49] [Server thread/INFO]: Loading properties
+[17:06:49] [Server thread/INFO]: Default game type: SURVIVAL
+[17:06:49] [Server thread/INFO]: Generating keypair
+[17:06:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:06:50] [Server thread/INFO]: Using epoll channel type
+[17:06:50] [Server thread/INFO]: Preparing level "world"
+[17:06:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:06:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:06:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:06:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:06:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:06:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:06:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:06:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:06:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:06:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:06:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:06:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:06:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:07:00] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[17:07:00] [Worker-Main-3/INFO]: Preparing spawn area: 26%
+[17:07:01] [Worker-Main-3/INFO]: Preparing spawn area: 69%
+[17:07:01] [Server thread/INFO]: Time elapsed: 7429 ms
+[17:07:01] [Server thread/INFO]: Done (11.719s)! For help, type "help"
+[17:07:38] [User Authenticator #1/INFO]: UUID of player Kong_Yin is b7afebd3-3094-411d-af24-6f9344ba4f10
+[17:07:38] [Server thread/INFO]: Kong_Yin[/[0:0:0:0:0:0:0:1%0]:59626] logged in with entity id 185 at (-3648.2959100172234, 72.0, -4132.83754536553)
+[17:07:38] [Server thread/INFO]: Kong_Yin joined the game
+[17:08:42] [Server thread/INFO]: [Kong_Yin: Teleported Kong_Yin to -3647.500000, 72.000000, -4131.500000]
+[17:09:08] [User Authenticator #2/INFO]: UUID of player JOBstear is 553ecaeb-bdf4-4ca8-9eaf-3cde433eaab4
+[17:09:08] [Server thread/INFO]: JOBstear[/[0:0:0:0:0:0:0:1%0]:56036] logged in with entity id 548 at (-3696.0734838131466, 63.0, -3529.5019418597813)
+[17:09:08] [Server thread/INFO]: JOBstear joined the game
+[17:09:09] [Server thread/INFO]: Kong_Yin was killed
+[17:09:09] [Server thread/INFO]: [Kong_Yin: Killed Kong_Yin]
+[17:09:28] [Server thread/INFO]: <JOBstear> okkkkk
+[17:09:38] [Server thread/INFO]: <JOBstear> tp
+[17:09:47] [Server thread/INFO]: cazryface[local] logged in with entity id 994 at (-182.23836135641324, 69.0, -349.7179137316064)
+[17:09:47] [Server thread/INFO]: cazryface joined the game
+[17:10:00] [Server thread/INFO]: cazryface was slain by Kong_Yin
+[17:10:00] [Server thread/INFO]: cazryface lost connection: cazryface died
+[17:10:00] [Server thread/INFO]: cazryface left the game
+[17:10:10] [Server thread/INFO]: CrazyFace[local] logged in with entity id 1118 at (-182.8358127816699, 69.0, -348.5972403769675)
+[17:10:10] [Server thread/INFO]: CrazyFace joined the game
+[17:10:21] [Server thread/INFO]: [Kong_Yin: Teleported Kong_Yin to -3647.500000, 72.000000, -4131.500000]
+[17:10:30] [Server thread/INFO]: [Kong_Yin: Teleported Cat to CrazyFace]
+[17:10:36] [Server thread/INFO]: [Kong_Yin: Teleported Kong_Yin to CrazyFace]
+[17:10:50] [Server thread/INFO]: [Kong_Yin: Teleported Cat to Kong_Yin]
+[17:11:14] [Server thread/INFO]: [Kong_Yin: Teleported Cat to Kong_Yin]
+[17:11:31] [Server thread/INFO]: [Kong_Yin: Teleported Wolf to Kong_Yin]
+[17:13:08] [Server thread/INFO]: [Kong_Yin: Set the time to 1000]
+[17:13:43] [Server thread/INFO]: <JOBstear> ok?
+[17:13:52] [Server thread/INFO]: <Kong_Yin> okkkkk
+[17:14:09] [Server thread/INFO]: <JOBstear> 你要過來嗎?
+[17:14:15] [Server thread/INFO]: [Kong_Yin: Teleported Kong_Yin to JOBstear]
+[17:14:45] [Server thread/INFO]: <JOBstear> 先tp他回去?
+[17:14:58] [Server thread/INFO]: <Kong_Yin> 好
+[17:15:05] [Server thread/INFO]: <JOBstear> 嘿嘿
+[17:15:12] [Server thread/INFO]: [Kong_Yin: Teleported Camel to CrazyFace]
+[17:15:18] [Server thread/INFO]: <Kong_Yin> 嘿嘿
+[17:15:27] [Server thread/INFO]: [Kong_Yin: Teleported Kong_Yin to CrazyFace]
+[17:15:36] [Server thread/INFO]: [JOBstear: Teleported JOBstear to CrazyFace]
+[17:15:45] [Server thread/INFO]: <Kong_Yin> 好可愛喔
+[17:16:20] [Server thread/INFO]: <Kong_Yin> 我用柵欄圍起來
+[17:16:38] [Server thread/INFO]: [JOBstear: Gave 1 [Lead] to JOBstear]
+[17:17:22] [Server thread/INFO]: [JOBstear: Set own game mode to Creative Mode]
+[17:17:25] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
+[17:17:28] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
+[17:17:31] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
+[17:17:32] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
+[17:17:34] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
+[17:17:41] [Server thread/INFO]: <Kong_Yin> 0.0
+[17:21:49] [Server thread/INFO]: <Kong_Yin> 嘿嘿
+[17:21:56] [Server thread/INFO]: <Kong_Yin> 你在幹嘛
+[17:22:28] [Server thread/INFO]: <JOBstear> 我再回我阿姨訊息
+[17:22:36] [Server thread/INFO]: <Kong_Yin> 歐給
+[17:22:43] [Server thread/INFO]: <JOBstear> 嘿嘿
+[17:22:56] [Server thread/INFO]: <JOBstear> 等我一下喔!
+[17:23:03] [Server thread/INFO]: <Kong_Yin> 好!
+[17:25:02] [Server thread/INFO]: [JOBstear: Teleported JOBstear to Kong_Yin]
+[17:26:14] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
+[17:29:42] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
+[17:29:49] [Server thread/INFO]: <JOBstear> hello
+[17:29:56] [Server thread/INFO]: <Kong_Yin> hi
+[17:30:49] [Server thread/INFO]: <Kong_Yin> 黑橡木不夠了QAQ
+[17:31:22] [Server thread/INFO]: [JOBstear: Gave 1 [Acacia Log] to Kong_Yin]
+[17:32:03] [Server thread/INFO]: [JOBstear: Gave 1 [Birch Log] to Kong_Yin]
+[17:32:55] [Server thread/INFO]: <Kong_Yin> dark_oak?
+[17:33:17] [Server thread/INFO]: [JOBstear: Gave 128 [Dark Oak Log] to Kong_Yin]
+[17:33:23] [Server thread/INFO]: <JOBstear> ya!
+[17:33:27] [Server thread/INFO]: <Kong_Yin> 好耶!
+[17:33:35] [Server thread/INFO]: [Kong_Yin: Set the time to 1000]
+[17:35:51] [Server thread/INFO]: <JOBstear> 嘿嘿
+[17:36:04] [Server thread/INFO]: <Kong_Yin> 把你的頭吃掉
+[17:36:09] [Server thread/INFO]: <Kong_Yin> 嘿嘿
+[17:36:40] [Server thread/INFO]: <JOBstear> 噗噗噗
+[17:38:19] [Server thread/INFO]: [Kong_Yin: Gave 24 [White Banner] to Kong_Yin]
+[17:38:56] [Server thread/INFO]: [Kong_Yin: Gave 1 [Flower Pot] to Kong_Yin]
+[17:39:08] [Server thread/INFO]: <JOBstear> 我去裝水喔
+[17:39:15] [Server thread/INFO]: <Kong_Yin> 好!
+[17:40:28] [Server thread/INFO]: [Kong_Yin: Gave 1 [Bamboo] to Kong_Yin]
+[17:40:44] [Server thread/INFO]: [Kong_Yin: Gave 1 [Loom] to Kong_Yin]
+[17:41:30] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
+[17:41:52] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
+[17:41:59] [Server thread/INFO]: Kong_Yin has made the advancement [Hot Stuff]
+[17:42:09] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
+[17:42:22] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
+[17:44:15] [Server thread/INFO]: [Kong_Yin: Set the time to 1000]
+[17:47:09] [Server thread/INFO]: <JOBstear> 歐窺嗎?
+[17:47:54] [Server thread/INFO]: [JOBstear: Teleported JOBstear to Kong_Yin]
+[17:48:05] [Server thread/INFO]: [JOBstear: Teleported Kong_Yin to JOBstear]
+[17:48:30] [Server thread/INFO]: <JOBstear> 你愛幹嘛?
+[17:48:39] [Server thread/INFO]: <JOBstear> 你在幹嘛?
+[17:48:52] [Server thread/INFO]: [JOBstear: Teleported Kong_Yin to JOBstear]
+[17:49:11] [Server thread/INFO]: [JOBstear: Teleported Kong_Yin to JOBstear]
+[17:49:18] [Server thread/INFO]: [JOBstear: Teleported Kong_Yin to JOBstear]
+[17:49:24] [Server thread/INFO]: <Kong_Yin> 我在罵我弟
+[17:49:34] [Server thread/INFO]: <JOBstear> 噗噗噗
+[17:49:38] [Server thread/INFO]: <Kong_Yin> 她穿我庫子
+[17:49:44] [Server thread/INFO]: <JOBstear> 揍他!
+[17:49:54] [Server thread/INFO]: <JOBstear> 我要先關了喔
+[17:49:56] [Server thread/INFO]: <Kong_Yin> 沒錯!
+[17:50:02] [Server thread/INFO]: <JOBstear> 歐窺嗎?
+[17:50:05] [Server thread/INFO]: <Kong_Yin> 好!
+[17:50:10] [Server thread/INFO]: <JOBstear> 嘿嘿嘿
+[17:50:14] [Server thread/INFO]: JOBstear lost connection: Disconnected
+[17:50:14] [Server thread/INFO]: JOBstear left the game
+[17:50:17] [Server thread/INFO]: Kong_Yin lost connection: Disconnected
+[17:50:17] [Server thread/INFO]: Kong_Yin left the game
+[17:50:28] [Server thread/INFO]: Stopping the server
+[17:50:28] [Server thread/INFO]: Stopping server
+[17:50:28] [Server thread/INFO]: Saving players
+[17:50:28] [Server thread/INFO]: Saving worlds
+[17:50:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:50:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:50:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:50:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:50:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:50:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:50:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
