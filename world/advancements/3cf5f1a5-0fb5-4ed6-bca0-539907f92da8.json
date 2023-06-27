@@ -1806,27 +1806,21 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2023-06-15 17:23:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2023-06-15 16:49:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_bed": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
-      "has_gray_wool": "2023-06-15 18:05:25 +0000"
+      "has_smooth_stone": "2023-06-15 16:49:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
-      "has_basalt": "2023-06-15 17:43:38 +0000"
+      "has_smooth_stone": "2023-06-15 16:49:48 +0000"
     },
     "done": true
   },
@@ -1836,21 +1830,51 @@
     },
     "done": true
   },
-  "minecraft:end/kill_dragon": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "killed_dragon": "2023-06-15 18:23:44 +0000"
+      "wheat": "2023-06-15 16:58:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2023-06-15 17:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2023-06-15 17:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2023-06-15 17:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2023-06-15 17:18:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-06-15 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2023-06-15 17:20:05 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2023-06-15 17:20:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2023-06-15 18:05:25 +0000"
     },
     "done": true
   },
@@ -1866,51 +1890,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2023-06-15 17:34:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2023-06-15 18:32:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_egg": {
-    "criteria": {
-      "dragon_egg": "2023-06-15 18:24:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
-    "criteria": {
-      "has_spire_armor_trim_smithing_template": "2023-06-15 18:29:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2023-06-15 18:24:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2023-06-15 17:00:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2023-06-15 17:21:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2023-06-15 17:23:36 +0000"
     },
     "done": true
   },
@@ -1926,27 +1908,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2023-06-15 18:45:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2023-06-15 17:59:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2023-06-15 17:21:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/cure_zombie_villager": {
-    "criteria": {
-      "cured_zombie": "2023-06-15 18:50:57 +0000"
     },
     "done": true
   },
@@ -1956,63 +1920,9 @@
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2023-06-15 18:27:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2023-06-15 17:20:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2023-06-15 17:33:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2023-06-15 18:24:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2023-06-15 17:39:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2023-06-15 18:24:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2023-06-15 17:21:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2023-06-15 17:07:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2023-06-15 18:32:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2023-06-15 18:29:53 +0000"
     },
     "done": true
   },
@@ -2022,21 +1932,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
-      "has_basalt": "2023-06-15 17:43:38 +0000"
+      "has_gold_ingot": "2023-06-15 17:21:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
+  "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
-      "has_blaze_powder": "2023-06-15 17:34:44 +0000"
+      "has_gold_ingot": "2023-06-15 17:21:49 +0000"
     },
     "done": true
   },
-  "minecraft:story/follow_ender_eye": {
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
-      "in_stronghold": "2023-06-15 18:01:37 +0000"
+      "has_gold_ingot": "2023-06-15 17:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2023-06-15 17:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2023-06-15 17:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2023-06-15 17:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2023-06-15 17:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-06-15 17:33:32 +0000"
     },
     "done": true
   },
@@ -2046,15 +1986,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2023-06-15 17:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2023-06-15 17:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2023-06-15 17:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2023-06-15 17:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2023-06-15 17:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2023-06-15 17:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2023-06-15 17:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2023-06-15 17:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2023-06-15 17:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2023-06-15 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2023-06-15 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2023-06-15 18:01:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2023-06-15 18:03:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_chestplate": {
+  "minecraft:story/enter_the_end": {
     "criteria": {
-      "has_gold_ingot": "2023-06-15 17:21:49 +0000"
+      "entered_end": "2023-06-15 18:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2023-06-15 18:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2023-06-15 18:05:25 +0000"
     },
     "done": true
   },
@@ -2082,51 +2106,27 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "minecraft:end/kill_dragon": {
     "criteria": {
-      "wheat": "2023-06-15 16:58:13 +0000"
+      "killed_dragon": "2023-06-15 18:23:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/fire_charge": {
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
-      "has_blaze_powder": "2023-06-15 17:34:44 +0000"
+      "has_end_stone": "2023-06-15 18:24:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_hoe": {
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
-      "has_gold_ingot": "2023-06-15 17:21:49 +0000"
+      "has_end_stone": "2023-06-15 18:24:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
-      "has_brown_mushroom": "2023-06-15 18:45:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2023-06-15 16:49:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2023-06-15 17:20:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2023-06-15 17:59:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2023-06-15 16:49:48 +0000"
+      "has_end_stone": "2023-06-15 18:24:06 +0000"
     },
     "done": true
   },
@@ -2142,15 +2142,15 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:end/dragon_egg": {
     "criteria": {
-      "fortress": "2023-06-15 17:31:54 +0000"
+      "dragon_egg": "2023-06-15 18:24:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+  "minecraft:end/find_end_city": {
     "criteria": {
-      "has_gold_ingot": "2023-06-15 17:21:49 +0000"
+      "in_city": "2023-06-15 18:27:28 +0000"
     },
     "done": true
   },
@@ -2160,47 +2160,95 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt": {
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
     "criteria": {
-      "has_basalt": "2023-06-15 17:43:38 +0000"
+      "has_spire_armor_trim_smithing_template": "2023-06-15 18:29:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/slime_ball": {
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_slime_block": "2023-06-15 17:18:35 +0000"
+      "has_smithing_trim_template": "2023-06-15 18:29:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "minecraft:nether/brew_potion": {
     "criteria": {
-      "has_blaze_rod": "2023-06-15 17:33:32 +0000"
+      "potion": "2023-06-15 18:32:24 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
+  "minecraft:end/elytra": {
     "criteria": {
-      "entered_end": "2023-06-15 18:03:24 +0000"
+      "elytra": "2023-06-15 18:32:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_warped_fungus": "2023-06-15 17:45:55 +0000"
+      "has_brown_mushroom": "2023-06-15 18:45:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_gold_ingot": "2023-06-15 17:21:49 +0000"
+      "has_brown_mushroom": "2023-06-15 18:45:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:story/cure_zombie_villager": {
     "criteria": {
-      "has_bone_meal": "2023-06-15 17:00:47 +0000"
+      "cured_zombie": "2023-06-15 18:50:57 +0000"
     },
     "done": true
   },
-  "DataVersion": 3463
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2023-06-27 13:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2023-06-27 13:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2023-06-27 13:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2023-06-27 13:56:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2023-06-27 14:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2023-06-27 14:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2023-06-27 14:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2023-06-27 14:05:55 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
 }
