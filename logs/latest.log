@@ -1,5 +1,5 @@
-[16:37:55] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.14.21
-[16:37:55] [main/INFO]: Loading 50 mods:
+[04:08:07] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.14.21
+[04:08:08] [main/INFO]: Loading 50 mods:
 	- carpet 1.4.112+v230608
 	- croptopia 2.3.0
 	   |-- com_typesafe_config 1.4.1
@@ -62,293 +62,94 @@
 	- lithium 0.11.2
 	- minecraft 1.20.1
 	- starlight 1.1.2+fabric.dbc156f
-[16:37:55] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/Minecraft_Server_20230612/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[16:37:55] [main/INFO]: Compatibility level set to JAVA_17
-[16:37:56] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 0 override(s) found
-[16:38:03] [main/WARN]: Method overwrite conflict for getConnection in fabric-networking-api-v1.mixins.json:accessor.ServerPlayNetworkHandlerAccessor from mod fabric-networking-api-v1, previously written by carpet.mixins.ServerGamePacketListenerImpl_coreMixin. Skipping method.
-[16:38:05] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:38:08] [main/INFO]: Loaded 7 recipes
-[16:38:08] [main/INFO]: Loaded 1639 advancements
-[16:38:08] [main/INFO]: Applied 190 biome modifications to 64 of 64 new biomes in 15.94 ms
-[16:38:08] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[16:38:08] [Server thread/INFO]: Loading properties
-[16:38:08] [Server thread/INFO]: Default game type: SURVIVAL
-[16:38:08] [Server thread/INFO]: Generating keypair
-[16:38:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:38:09] [Server thread/INFO]: Using epoll channel type
-[16:38:09] [Server thread/INFO]: Preparing level "world"
-[16:38:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:38:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:38:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:38:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:38:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:38:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:38:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:38:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[16:38:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:38:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:38:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:38:17] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[16:38:18] [Worker-Main-2/INFO]: Preparing spawn area: 19%
-[16:38:18] [Worker-Main-3/INFO]: Preparing spawn area: 58%
-[16:38:19] [Server thread/INFO]: Time elapsed: 6299 ms
-[16:38:19] [Server thread/INFO]: Done (9.936s)! For help, type "help"
-[16:38:45] [User Authenticator #1/INFO]: UUID of player JOBstear is 553ecaeb-bdf4-4ca8-9eaf-3cde433eaab4
-[16:38:45] [Server thread/INFO]: JOBstear[/[0:0:0:0:0:0:0:1%0]:53622] logged in with entity id 191 at (-153.96564685126458, 83.0, -341.2945844831453)
-[16:38:46] [Server thread/INFO]: JOBstear joined the game
-[16:39:15] [Server thread/INFO]: JOBstear lost connection: Timed out
-[16:39:15] [Server thread/INFO]: JOBstear left the game
-[16:39:22] [User Authenticator #2/INFO]: UUID of player JOBstear is 553ecaeb-bdf4-4ca8-9eaf-3cde433eaab4
-[16:39:22] [Server thread/INFO]: JOBstear[/[0:0:0:0:0:0:0:1%0]:40216] logged in with entity id 247 at (-153.96564685126458, 83.0, -341.2945844831453)
-[16:39:22] [Server thread/INFO]: JOBstear joined the game
-[16:39:23] [Server thread/INFO]: JOBstear lost connection: Disconnected
-[16:39:23] [Server thread/INFO]: JOBstear left the game
-[16:40:43] [User Authenticator #3/INFO]: UUID of player JOBstear is 553ecaeb-bdf4-4ca8-9eaf-3cde433eaab4
-[16:40:44] [Server thread/INFO]: JOBstear[/[0:0:0:0:0:0:0:1%0]:55226] logged in with entity id 257 at (-153.96564685126458, 83.0, -341.2945844831453)
-[16:40:44] [Server thread/INFO]: JOBstear joined the game
-[16:41:42] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:41:50] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:42:57] [User Authenticator #4/INFO]: UUID of player Kong_Yin is b7afebd3-3094-411d-af24-6f9344ba4f10
-[16:42:57] [Server thread/INFO]: Kong_Yin[/[0:0:0:0:0:0:0:1%0]:58298] logged in with entity id 525 at (-813.0082195682747, 72.34232819199121, -682.5701550052314)
-[16:42:57] [Server thread/INFO]: Kong_Yin joined the game
-[16:43:07] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:43:13] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:43:15] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:43:23] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:43:58] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:44:03] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:44:05] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:44:17] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[16:45:33] [Server thread/INFO]: [Kong_Yin: Teleported Kong_Yin to JOBstear]
-[16:47:01] [Server thread/INFO]: JOBstear lost connection: Disconnected
-[16:47:01] [Server thread/INFO]: JOBstear left the game
-[16:49:26] [Server thread/INFO]: [Kong_Yin: Gave 1 [Macaron] to Kong_Yin]
-[16:49:30] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[16:50:08] [User Authenticator #5/INFO]: UUID of player JOBstear is 553ecaeb-bdf4-4ca8-9eaf-3cde433eaab4
-[16:50:08] [Server thread/INFO]: JOBstear[/[0:0:0:0:0:0:0:1%0]:43738] logged in with entity id 1430 at (-161.76260494646118, 70.89045350702268, -323.87213631854536)
-[16:50:08] [Server thread/INFO]: JOBstear joined the game
-[16:50:52] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[16:50:56] [Server thread/INFO]: [JOBstear: Teleported JOBstear to Kong_Yin]
-[16:50:59] [Server thread/INFO]: [JOBstear: Set own game mode to Creative Mode]
-[16:51:00] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:51:12] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[16:55:32] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[16:56:05] [Server thread/INFO]: [Kong_Yin: Gave 64 [Macaron] to Kong_Yin]
-[17:01:08] [User Authenticator #6/INFO]: UUID of player zo4yrayray is d070fd42-aa51-4495-8020-1cd35df659ad
-[17:01:08] [Server thread/INFO]: zo4yrayray[/[0:0:0:0:0:0:0:1%0]:41696] logged in with entity id 2657 at (-182.5, 78.0, -342.5)
-[17:01:08] [Server thread/INFO]: zo4yrayray joined the game
-[17:03:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-178, y=69, z=-351}
-[17:03:19] [Server thread/INFO]: JOBstear lost connection: Disconnected
-[17:03:19] [Server thread/INFO]: JOBstear left the game
-[17:03:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-178, y=69, z=-351}
-[17:03:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-178, y=69, z=-351}
-[17:03:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-178, y=69, z=-351}
-[17:03:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-178, y=69, z=-351}
-[17:03:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-177, y=70, z=-351}
-[17:03:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-182, y=68, z=-352}
-[17:03:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-180, y=68, z=-348}
-[17:05:25] [Server thread/INFO]: [Kong_Yin: Set zo4yrayray's game mode to Spectator Mode]
-[17:05:32] [Server thread/WARN]: zo4yrayray moved too quickly! -6.035655380934202,0.0,8.397067764855592
-[17:05:40] [Server thread/INFO]: [Kong_Yin: Set zo4yrayray's game mode to Survival Mode]
-[17:05:44] [Server thread/INFO]: zo4yrayray lost connection: Disconnected
-[17:05:44] [Server thread/INFO]: zo4yrayray left the game
-[17:05:53] [User Authenticator #7/INFO]: UUID of player zo4yrayray is d070fd42-aa51-4495-8020-1cd35df659ad
-[17:05:53] [Server thread/INFO]: zo4yrayray[/[0:0:0:0:0:0:0:1%0]:56956] logged in with entity id 3306 at (-177.0181321403319, 69.0, -347.6966205728435)
-[17:05:53] [Server thread/INFO]: zo4yrayray joined the game
-[17:06:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-184, y=68, z=-350}
-[17:06:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-183, y=68, z=-350}
-[17:06:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-182, y=68, z=-350}
-[17:06:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-182, y=68, z=-349}
-[17:06:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-182, y=68, z=-350}
-[17:06:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-181, y=68, z=-350}
-[17:06:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-180, y=68, z=-350}
-[17:06:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-180, y=68, z=-351}
-[17:06:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-174, y=66, z=-360}
-[17:06:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-173, y=66, z=-361}
-[17:06:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-172, y=66, z=-362}
-[17:06:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-171, y=66, z=-363}
-[17:06:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-172, y=68, z=-363}
-[17:06:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-172, y=69, z=-363}
-[17:06:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-172, y=69, z=-363}
-[17:06:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-172, y=70, z=-363}
-[17:06:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-172, y=69, z=-363}
-[17:07:59] [Server thread/INFO]: zo4yrayray has made the advancement [Acquire Hardware]
-[17:08:30] [Server thread/INFO]: zo4yrayray has made the advancement [Isn't It Iron Pick]
-[17:08:59] [Server thread/INFO]: Kong_Yin has made the advancement [Potted]
-[17:10:44] [Server thread/INFO]: zo4yrayray has made the advancement [Suit Up]
-[17:10:51] [Server thread/INFO]: zo4yrayray lost connection: Disconnected
-[17:10:51] [Server thread/INFO]: zo4yrayray left the game
-[17:10:59] [User Authenticator #8/INFO]: UUID of player zo4yrayray is d070fd42-aa51-4495-8020-1cd35df659ad
-[17:10:59] [Server thread/INFO]: zo4yrayray[/[0:0:0:0:0:0:0:1%0]:36996] logged in with entity id 3969 at (-157.37249101732257, 71.0, -323.4598567391706)
-[17:10:59] [Server thread/INFO]: zo4yrayray joined the game
-[17:11:18] [User Authenticator #9/INFO]: UUID of player JOBstear is 553ecaeb-bdf4-4ca8-9eaf-3cde433eaab4
-[17:11:18] [Server thread/INFO]: JOBstear[/[0:0:0:0:0:0:0:1%0]:50674] logged in with entity id 4026 at (-189.63310975828634, 69.0, -362.7786735947033)
-[17:11:18] [Server thread/INFO]: JOBstear joined the game
-[17:14:14] [Server thread/INFO]: JOBstear has made the advancement [Potted]
-[17:14:49] [Server thread/INFO]: zo4yrayray has made the advancement [Stone Age]
-[17:17:28] [Server thread/INFO]: JOBstear has made the advancement [Iron Torch]
-[17:17:54] [Server thread/INFO]: Kong_Yin has made the advancement [Iron Torch]
-[17:18:18] [Server thread/INFO]: [JOBstear: Teleported JOBstear to zo4yrayray]
-[17:18:33] [Server thread/INFO]: AhAh[local] logged in with entity id 6510 at (-531.0125961671708, 66.0, -207.30349127952158)
-[17:18:33] [Server thread/INFO]: AhAh joined the game
-[17:18:53] [Server thread/INFO]: [JOBstear: Teleported zo4yrayray to Kong_Yin]
-[17:19:28] [Server thread/INFO]: [JOBstear: Teleported JOBstear to Kong_Yin]
-[17:20:14] [Server thread/INFO]: zo4yrayray has made the advancement [Potted]
-[17:20:49] [Server thread/INFO]: [Kong_Yin: Gave 1 [Croptopia] to Kong_Yin]
-[17:21:46] [Server thread/INFO]: JOBstear has made the advancement [Can't Be Used as a Weapon]
-[17:22:15] [Server thread/INFO]: Kong_Yin has made the advancement [Can't Be Used as a Weapon]
-[17:23:26] [Server thread/INFO]: Kong_Yin has made the advancement [Forestree Territree]
-[17:23:26] [Server thread/INFO]: [Kong_Yin: Gave 2 [Cherry Sapling] to Kong_Yin]
-[17:23:29] [Server thread/INFO]: [JOBstear: Gave 1 [Dark Oak Fence] to Kong_Yin]
-[17:23:52] [Server thread/INFO]: [JOBstear: Gave 128 [Dark Oak Planks] to Kong_Yin]
-[17:24:25] [Server thread/INFO]: [JOBstear: Applied effect Regeneration to Kong_Yin]
-[17:25:42] [Server thread/INFO]: AhAh was shot by Skeleton
-[17:25:42] [Server thread/INFO]: AhAh lost connection: AhAh died
-[17:25:42] [Server thread/INFO]: AhAh left the game
-[17:26:05] [Server thread/INFO]: zo4yrayray has made the advancement [Not Today, Thank You]
-[17:26:09] [Server thread/INFO]: zo4yrayray has made the advancement [Monster Hunter]
-[17:27:22] [Server thread/INFO]: [Kong_Yin: Gave 10 [Decorated Pot] to Kong_Yin]
-[17:27:24] [Server thread/INFO]: [JOBstear: Gave 2 [Piston] to JOBstear]
-[17:27:49] [Server thread/INFO]: [JOBstear: Gave 1 [Hopper] to JOBstear]
-[17:27:55] [Server thread/INFO]: JOBstear has made the advancement [Blendern't]
-[17:28:05] [Server thread/INFO]: [Kong_Yin: Gave 4 [Nether Brick Wall] to Kong_Yin]
-[17:28:22] [Server thread/INFO]: [JOBstear: Set own game mode to Creative Mode]
-[17:28:43] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[17:29:07] [Server thread/INFO]: zo4yrayray has made the advancement [Sweet Dreams]
-[17:29:22] [Server thread/INFO]: craztface[local] logged in with entity id 10004 at (-175.30000001192093, 70.0, -352.69999998807907)
-[17:29:22] [Server thread/INFO]: craztface joined the game
-[17:29:30] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[17:29:33] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[17:30:55] [Server thread/INFO]: [JOBstear: Gave 128 [Egg] to JOBstear]
-[17:31:47] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[17:31:51] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[17:32:26] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[17:32:31] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[17:34:35] [Server thread/INFO]: [JOBstear: Successfully filled 61 block(s)]
-[17:35:07] [Server thread/INFO]: [JOBstear: Teleported JOBstear to zo4yrayray]
-[17:35:37] [Server thread/INFO]: [JOBstear: Teleported JOBstear to craztface]
-[17:35:51] [Server thread/INFO]: craztface was slain by JOBstear
-[17:35:51] [Server thread/INFO]: craztface lost connection: craztface died
-[17:35:51] [Server thread/INFO]: craztface left the game
-[17:36:04] [Server thread/INFO]: CrazyFace[local] logged in with entity id 12982 at (-175.69813968724995, 70.0, -352.69999998807907)
-[17:36:04] [Server thread/INFO]: CrazyFace joined the game
-[17:36:13] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[17:36:32] [Server thread/INFO]: RedMoon[local] logged in with entity id 13172 at (-159.05960483521457, 153.28933457581837, -305.07571756093927)
-[17:36:32] [Server thread/INFO]: RedMoon joined the game
-[17:36:48] [Server thread/INFO]: [JOBstear: Set RedMoon's game mode to Survival Mode]
-[17:36:51] [Server thread/INFO]: RedMoon fell from a high place
-[17:36:51] [Server thread/INFO]: RedMoon lost connection: RedMoon died
-[17:36:51] [Server thread/INFO]: RedMoon left the game
-[17:36:53] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[17:36:55] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[17:36:57] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[17:37:05] [Server thread/INFO]: [Kong_Yin: Teleported Kong_Yin to zo4yrayray]
-[17:38:03] [Server thread/INFO]: [Kong_Yin: Teleported Kong_Yin to JOBstear]
-[17:38:47] [Server thread/INFO]: zo4yrayray has made the advancement [An Extra Seedy Place]
-[17:38:53] [Server thread/INFO]: [JOBstear: Gave 1 [Banana Cream Pie] to JOBstear]
-[17:39:13] [Server thread/INFO]: [JOBstear: Gave 6400 [Banana] to zo4yrayray]
-[17:40:56] [Server thread/INFO]: [JOBstear: Gave 256 [Pecan] to JOBstear]
-[17:41:14] [Server thread/INFO]: [JOBstear: Gave 256 [Sugar] to JOBstear]
-[17:41:29] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[17:41:35] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[17:43:10] [Server thread/INFO]: [JOBstear: Gave 64 [Grape] to JOBstear]
-[17:43:38] [Server thread/INFO]: [JOBstear: Gave 32 [Glass Bottle] to JOBstear]
-[17:44:07] [Server thread/INFO]: JOBstear has made the advancement [Fancy Water]
-[17:44:12] [Server thread/INFO]: Kong_Yin has made the advancement [Fancy Water]
-[17:45:50] [Server thread/INFO]: [JOBstear: Gave 20 [Kiwi] to zo4yrayray]
-[17:46:29] [Server thread/INFO]: JOBstear has made the advancement [A Deadly Weapon For... Crushing]
-[17:46:29] [Server thread/INFO]: [JOBstear: Gave 1 [Mortar and Pestle] to JOBstear]
-[17:46:39] [Server thread/INFO]: Kong_Yin has made the advancement [A Deadly Weapon For... Crushing]
-[17:47:34] [Server thread/INFO]: JOBstear has made the advancement [Oddly tasty sticks]
-[17:47:34] [Server thread/INFO]: [JOBstear: Gave 1 [Cinnamon] to JOBstear]
-[17:47:39] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[17:47:43] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[17:47:48] [Server thread/INFO]: [JOBstear: Teleported zo4yrayray to CrazyFace]
-[17:47:54] [Server thread/INFO]: Kong_Yin has made the advancement [Oddly tasty sticks]
-[17:48:10] [Server thread/INFO]: zo4yrayray has made the advancement [Oddly tasty sticks]
-[17:48:38] [Server thread/INFO]: Kong_Yin has made the advancement [An Extra Seedy Place]
-[17:48:55] [Server thread/INFO]: [JOBstear: Gave 3 [The Big Breakfast] to JOBstear]
-[17:49:44] [Server thread/INFO]: [JOBstear: Gave 5 [Grilled Eggplant] to Kong_Yin]
-[17:50:23] [Server thread/INFO]: [JOBstear: Gave 5 [Sticky Toffee Pudding] to Kong_Yin]
-[17:50:51] [Server thread/INFO]: [JOBstear: Gave 64 [Beef Wellington] to zo4yrayray]
-[17:51:32] [Server thread/INFO]: [JOBstear: Gave 64 [Ajvar Toast] to zo4yrayray]
-[17:51:57] [Server thread/INFO]: [JOBstear: Gave 64 [Doughnut] to zo4yrayray]
-[17:52:21] [Server thread/INFO]: [JOBstear: Gave 64 [Tofuburger] to zo4yrayray]
-[17:53:00] [Server thread/INFO]: [JOBstear: Gave 1 [Horchata] to Kong_Yin]
-[17:54:00] [Server thread/INFO]: [JOBstear: Gave 1 [Lemon Coconut Bar] to Kong_Yin]
-[17:54:28] [Server thread/INFO]: [JOBstear: Set the time to 1000]
-[17:55:19] [Server thread/INFO]: [JOBstear: Gave 64 [Supreme Pizza] to zo4yrayray]
-[17:55:36] [Server thread/INFO]: zo4yrayray has reached the goal [Fully Stuffed]
-[17:55:36] [Server thread/INFO]: zo4yrayray has made the advancement [Hearty Meal]
-[17:55:37] [Server thread/WARN]: Failed to handle packet for /[0:0:0:0:0:0:0:1%0]:36996
-net.minecraft.class_148: Ticking player
-	at net.minecraft.class_3222.method_14226(class_3222.java:574) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3244.method_18784(class_3244.java:269) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2535.method_10754(class_2535.java:259) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3242.method_14357(class_3242.java:172) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:908) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.handler$zbf000$carpet$modifiedRunLoop(MinecraftServer.java:5942) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:650) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:833) ~[?:?]
-Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1935.method_8389()" because "$$0" is null
-	at net.minecraft.class_1799.<init>(class_1799.java:169) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1799.<init>(class_1799.java:152) ~[server-intermediary.jar:?]
-	at com.epherical.croptopia.items.Drink.method_7861(Drink.java:53) ~[Croptopia-1.20-FABRIC-2.3.0.jar:?]
-	at net.minecraft.class_1799.method_7910(class_1799.java:288) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1309.method_6040(class_1309.java:3144) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3222.redirect$zga000$carpet$finishedUsingItem(class_3222.java:2388) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3222.method_6040(class_3222.java:1176) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1309.method_37119(class_1309.java:3023) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3222.method_37119(class_3222.java:1699) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1309.method_6076(class_1309.java:3010) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1309.method_5773(class_1309.java:2381) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1657.method_5773(class_1657.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3222.method_14226(class_3222.java:510) ~[server-intermediary.jar:?]
-	... 10 more
-[17:55:37] [Server thread/INFO]: zo4yrayray lost connection: Internal server error
-[17:55:37] [Server thread/INFO]: zo4yrayray left the game
-[17:55:48] [User Authenticator #10/INFO]: UUID of player zo4yrayray is d070fd42-aa51-4495-8020-1cd35df659ad
-[17:55:48] [Server thread/INFO]: zo4yrayray[/[0:0:0:0:0:0:0:1%0]:37690] logged in with entity id 18816 at (-166.73606761988444, 71.0, -320.7234393778073)
-[17:55:48] [Server thread/INFO]: zo4yrayray joined the game
-[17:56:26] [Server thread/INFO]: [JOBstear: Applied effect Hunger to 4 targets]
-[17:58:18] [Server thread/INFO]: [JOBstear: Gave 256 [Beef Wellington] to zo4yrayray]
-[17:58:45] [Server thread/INFO]: JOBstear has made the advancement [Hearty Meal]
-[17:59:40] [Server thread/INFO]: zo4yrayray has made the advancement [A Deadly Weapon For... Crushing]
-[18:01:55] [Server thread/INFO]: [JOBstear: Removed effect Regeneration from JOBstear]
-[18:02:58] [Server thread/INFO]: [JOBstear: Teleported Kong_Yin to JOBstear]
-[18:03:33] [Server thread/INFO]: Kong_Yin lost connection: Timed out
-[18:03:33] [Server thread/INFO]: Kong_Yin left the game
-[18:03:33] [Server thread/WARN]: handleDisconnection() called twice
-[18:03:50] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[18:04:32] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[18:04:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-194, y=65, z=-362}
-[18:04:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-194, y=65, z=-361}
-[18:04:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-196, y=65, z=-360} class_2338{x=-195, y=65, z=-360}
-[18:04:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-196, y=65, z=-360} class_2338{x=-194, y=65, z=-360}
-[18:04:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-196, y=65, z=-360} class_2338{x=-193, y=66, z=-360}
-[18:04:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-196, y=65, z=-360} class_2338{x=-193, y=66, z=-359}
-[18:04:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-196, y=65, z=-360} class_2338{x=-192, y=67, z=-359}
-[18:04:59] [Server thread/INFO]: zo4yrayray lost connection: Disconnected
-[18:04:59] [Server thread/INFO]: zo4yrayray left the game
-[18:05:09] [Server thread/INFO]: JOBstear lost connection: Disconnected
-[18:05:09] [Server thread/INFO]: JOBstear left the game
-[18:05:17] [User Authenticator #11/INFO]: UUID of player Kong_Yin is b7afebd3-3094-411d-af24-6f9344ba4f10
-[18:05:17] [Server thread/INFO]: Kong_Yin[/[0:0:0:0:0:0:0:1%0]:36464] logged in with entity id 21457 at (-270.3742825583365, 64.0, -954.5528594980256)
-[18:05:17] [Server thread/INFO]: Kong_Yin joined the game
-[18:05:35] [Server thread/INFO]: [Kong_Yin: Teleported Kong_Yin to CrazyFace]
-[18:05:42] [Server thread/INFO]: Kong_Yin lost connection: Disconnected
-[18:05:42] [Server thread/INFO]: Kong_Yin left the game
-[18:05:56] [Server thread/INFO]: Stopping the server
-[18:05:56] [Server thread/INFO]: Stopping server
-[18:05:56] [Server thread/INFO]: Saving players
-[18:05:56] [Server thread/INFO]: Saving worlds
-[18:05:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:05:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:05:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:05:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:08:08] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/Minecraft_Server_20230612/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[04:08:08] [main/INFO]: Compatibility level set to JAVA_17
+[04:08:08] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 0 override(s) found
+[04:08:16] [main/WARN]: Method overwrite conflict for getConnection in fabric-networking-api-v1.mixins.json:accessor.ServerPlayNetworkHandlerAccessor from mod fabric-networking-api-v1, previously written by carpet.mixins.ServerGamePacketListenerImpl_coreMixin. Skipping method.
+[04:08:18] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04:08:20] [main/INFO]: Loaded 7 recipes
+[04:08:20] [main/INFO]: Loaded 1639 advancements
+[04:08:21] [main/INFO]: Applied 190 biome modifications to 64 of 64 new biomes in 14.77 ms
+[04:08:21] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[04:08:21] [Server thread/INFO]: Loading properties
+[04:08:21] [Server thread/INFO]: Default game type: SURVIVAL
+[04:08:21] [Server thread/INFO]: Generating keypair
+[04:08:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:08:21] [Server thread/INFO]: Using epoll channel type
+[04:08:21] [Server thread/INFO]: Preparing level "world"
+[04:08:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:08:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:08:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:08:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:08:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:08:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:08:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:08:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:08:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:08:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:08:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:08:30] [Worker-Main-3/INFO]: Preparing spawn area: 5%
+[04:08:31] [Worker-Main-3/INFO]: Preparing spawn area: 17%
+[04:08:31] [Worker-Main-1/INFO]: Preparing spawn area: 26%
+[04:08:32] [Worker-Main-1/INFO]: Preparing spawn area: 62%
+[04:08:32] [Server thread/INFO]: Time elapsed: 7021 ms
+[04:08:32] [Server thread/INFO]: Done (11.066s)! For help, type "help"
+[04:09:23] [User Authenticator #1/INFO]: UUID of player weitsungyu is 3cf5f1a5-0fb5-4ed6-bca0-539907f92da8
+[04:09:24] [Server thread/INFO]: weitsungyu[/127.0.0.1:44410] logged in with entity id 187 at (-174.6083740451165, 70.0, -351.69999998807907)
+[04:09:24] [Server thread/INFO]: weitsungyu joined the game
+[04:09:54] [Server thread/INFO]: weitsungyu lost connection: Timed out
+[04:09:54] [Server thread/INFO]: weitsungyu left the game
+[04:11:25] [User Authenticator #2/INFO]: UUID of player weitsungyu is 3cf5f1a5-0fb5-4ed6-bca0-539907f92da8
+[04:11:25] [Server thread/INFO]: weitsungyu[/127.0.0.1:48568] logged in with entity id 222 at (-174.6083740451165, 70.0, -351.69999998807907)
+[04:11:25] [Server thread/INFO]: weitsungyu joined the game
+[04:11:28] [Server thread/INFO]: Player weitsungyu joined with a matching carpet client
+[04:11:40] [Server thread/INFO]: [weitsungyu: Set own game mode to Creative Mode]
+[04:11:47] [Server thread/INFO]: [weitsungyu: Disabling data pack [file/xiaoyu (world)]]
+[04:11:47] [Server thread/INFO]: Loaded 7 recipes
+[04:11:47] [Server thread/INFO]: Loaded 1639 advancements
+[04:11:50] [Server thread/INFO]: [weitsungyu: Set own game mode to Creative Mode]
+[04:13:00] [Server thread/INFO]: [weitsungyu: Set own game mode to Spectator Mode]
+[04:13:03] [Server thread/INFO]: [weitsungyu: Set own game mode to Creative Mode]
+[04:13:09] [Server thread/INFO]: [weitsungyu: Teleported weitsungyu to Villager]
+[04:13:10] [Server thread/INFO]: [weitsungyu: Set own game mode to Spectator Mode]
+[04:13:13] [Server thread/INFO]: [weitsungyu: Set own game mode to Creative Mode]
+[04:13:15] [Server thread/INFO]: [weitsungyu: Teleported Villager to weitsungyu]
+[04:13:16] [Server thread/INFO]: [weitsungyu: Set own game mode to Spectator Mode]
+[04:13:19] [Server thread/INFO]: [weitsungyu: Set own game mode to Creative Mode]
+[04:13:24] [Server thread/INFO]: [weitsungyu: Teleported weitsungyu to Villager]
+[04:13:24] [Server thread/INFO]: [weitsungyu: Set own game mode to Spectator Mode]
+[04:13:27] [Server thread/INFO]: [weitsungyu: Set own game mode to Creative Mode]
+[04:13:29] [Server thread/INFO]: [weitsungyu: Teleported Villager to weitsungyu]
+[04:13:29] [Server thread/INFO]: [weitsungyu: Set own game mode to Spectator Mode]
+[04:13:37] [Server thread/INFO]: [weitsungyu: Set own game mode to Creative Mode]
+[04:13:39] [Server thread/INFO]: [weitsungyu: Set own game mode to Spectator Mode]
+[04:13:41] [Server thread/INFO]: [weitsungyu: Set own game mode to Creative Mode]
+[04:13:43] [Server thread/INFO]: [weitsungyu: Set own game mode to Spectator Mode]
+[04:13:50] [Server thread/INFO]: [weitsungyu: Summoned new Villager]
+[04:13:50] [Server thread/INFO]: [weitsungyu: Set own game mode to Creative Mode]
+[04:13:52] [Server thread/INFO]: [weitsungyu: Set own game mode to Spectator Mode]
+[04:13:55] [Server thread/INFO]: [weitsungyu: Set own game mode to Creative Mode]
+[04:14:05] [Server thread/INFO]: [weitsungyu: Set own game mode to Spectator Mode]
+[04:14:13] [Server thread/INFO]: [weitsungyu: Set own game mode to Creative Mode]
+[04:14:27] [Server thread/INFO]: [weitsungyu: Gave 1 [Name Tag] to weitsungyu]
+[04:15:07] [Server thread/INFO]: [weitsungyu: Set own game mode to Spectator Mode]
+[04:15:14] [Server thread/INFO]: [weitsungyu: Set own game mode to Creative Mode]
+[04:16:20] [Server thread/INFO]: [weitsungyu: Enabling data pack [file/xiaoyu (world)]]
+[04:16:20] [Server thread/INFO]: Loaded 7 recipes
+[04:16:20] [Server thread/INFO]: Loaded 1639 advancements
+[04:16:23] [Server thread/INFO]: [weitsungyu: Set own game mode to Survival Mode]
+[04:16:37] [Server thread/INFO]: [weitsungyu: Set own game mode to Spectator Mode]
+[04:16:53] [Server thread/INFO]: [weitsungyu: Set own game mode to Survival Mode]
+[04:16:57] [Server thread/INFO]: weitsungyu lost connection: Disconnected
+[04:16:57] [Server thread/INFO]: weitsungyu left the game
+[04:17:00] [Server thread/INFO]: Stopping the server
+[04:17:00] [Server thread/INFO]: Stopping server
+[04:17:00] [Server thread/INFO]: Saving players
+[04:17:00] [Server thread/INFO]: Saving worlds
+[04:17:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:17:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:17:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:17:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:17:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:17:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:17:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

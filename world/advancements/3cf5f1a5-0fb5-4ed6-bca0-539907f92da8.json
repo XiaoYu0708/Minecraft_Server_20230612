@@ -2256,5 +2256,23 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/frying_pan": {
+    "criteria": {
+      "has_iron": "2023-06-30 04:16:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/knife": {
+    "criteria": {
+      "has_iron": "2023-06-30 04:16:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cooking_pot": {
+    "criteria": {
+      "has_iron": "2023-06-30 04:16:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
