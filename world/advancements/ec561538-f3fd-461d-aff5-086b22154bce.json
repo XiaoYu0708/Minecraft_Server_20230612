@@ -5,12 +5,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2023-06-30 07:45:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2023-06-30 07:14:54 +0000"
@@ -22,6 +16,18 @@
       "entered_end": "2023-06-30 07:14:54 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-06-30 07:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-07-02 17:02:18 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
