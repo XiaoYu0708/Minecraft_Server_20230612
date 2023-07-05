@@ -2960,9 +2960,136 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2023-07-02 16:29:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2023-07-02 16:29:36 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/veggie_salad": {
     "criteria": {
       "has_the_recipe": "2023-07-02 17:02:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/tomato_seed": {
+    "criteria": {
+      "has_tomato": "2023-07-02 17:02:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "tomato_seed": "2023-07-02 17:02:58 +0000",
+      "celery_seed": "2023-07-02 17:04:03 +0000"
+    },
+    "done": false
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "tomato_seed": "2023-07-02 17:02:58 +0000",
+      "cucumber_seed": "2023-07-02 17:04:18 +0000",
+      "celery_seed": "2023-07-02 17:04:03 +0000",
+      "barley_seed": "2023-07-02 17:08:07 +0000",
+      "corn_seed": "2023-07-02 17:06:16 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2023-07-02 17:02:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/tomato_juice": {
+    "criteria": {
+      "has_tomato": "2023-07-02 17:02:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/lemon_sapling": {
+    "criteria": {
+      "has_lemon": "2023-07-02 17:03:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_lemon_coconut_bar": {
+    "criteria": {
+      "has_lemon": "2023-07-02 17:03:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/lemon_chicken": {
+    "criteria": {
+      "has_lemon": "2023-07-02 17:03:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/lemonade": {
+    "criteria": {
+      "has_lemon": "2023-07-02 17:03:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/celery_seed": {
+    "criteria": {
+      "has_celery": "2023-07-02 17:04:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "cucumber_seed": "2023-07-02 17:04:18 +0000",
+      "corn_seed": "2023-07-02 17:06:16 +0000",
+      "barley_seed": "2023-07-02 17:08:07 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/cucumber_seed": {
+    "criteria": {
+      "has_cucumber": "2023-07-02 17:04:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cucumber_salad": {
+    "criteria": {
+      "has_cucumber": "2023-07-02 17:04:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/caesar_salad": {
+    "criteria": {
+      "has_the_recipe": "2023-07-02 17:04:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_sapling": {
+    "criteria": {
+      "has_peach": "2023-07-02 17:04:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_jam": {
+    "criteria": {
+      "has_peach": "2023-07-02 17:04:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_sapling": {
+    "criteria": {
+      "has_orange": "2023-07-02 17:05:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_juice": {
+    "criteria": {
+      "has_orange": "2023-07-02 17:05:54 +0000"
     },
     "done": true
   },
@@ -2978,39 +3105,15 @@
     },
     "done": true
   },
-  "croptopia:recipes/pepperoni": {
-    "criteria": {
-      "has_pepper": "2023-07-02 17:06:41 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/burrito": {
     "criteria": {
       "has_the_recipe": "2023-07-02 17:06:08 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/misc/broccoli_seed": {
-    "criteria": {
-      "has_broccoli": "2023-07-02 17:07:37 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/misc/corn_seed": {
     "criteria": {
       "has_corn": "2023-07-02 17:06:08 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/barley_seed": {
-    "criteria": {
-      "has_barley": "2023-07-02 17:08:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2023-07-02 16:29:36 +0000"
     },
     "done": true
   },
@@ -3032,94 +3135,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/peach_sapling": {
-    "criteria": {
-      "has_peach": "2023-07-02 17:04:41 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/cucumber_seed": {
-    "criteria": {
-      "has_cucumber": "2023-07-02 17:04:25 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/chile_pepper_seed": {
-    "criteria": {
-      "has_chile_pepper": "2023-07-02 17:06:41 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_beef_stir_fry": {
-    "criteria": {
-      "has_broccoli": "2023-07-02 17:07:37 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/lemon_sapling": {
-    "criteria": {
-      "has_lemon": "2023-07-02 17:03:25 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/celery_seed": {
-    "criteria": {
-      "has_celery": "2023-07-02 17:04:03 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/peach_jam": {
-    "criteria": {
-      "has_peach": "2023-07-02 17:04:41 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_lemon_coconut_bar": {
-    "criteria": {
-      "has_lemon": "2023-07-02 17:03:25 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/lemon_chicken": {
-    "criteria": {
-      "has_lemon": "2023-07-02 17:03:25 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/tomato_seed": {
-    "criteria": {
-      "has_tomato": "2023-07-02 17:02:58 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/campfire_popcorn": {
     "criteria": {
       "has_corn": "2023-07-02 17:06:08 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/cucumber_salad": {
-    "criteria": {
-      "has_cucumber": "2023-07-02 17:04:25 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/lemonade": {
-    "criteria": {
-      "has_lemon": "2023-07-02 17:03:25 +0000"
-    },
-    "done": true
-  },
-  "croptopia:gather_forest": {
-    "criteria": {
-      "tomato_seed": "2023-07-02 17:02:58 +0000",
-      "celery_seed": "2023-07-02 17:04:03 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/caesar_salad": {
-    "criteria": {
-      "has_the_recipe": "2023-07-02 17:04:25 +0000"
     },
     "done": true
   },
@@ -3129,21 +3147,35 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/bamboo_mosaic": {
+  "croptopia:recipes/flour": {
     "criteria": {
-      "has_bamboo_slab": "2023-07-02 16:29:36 +0000"
+      "has_grain": "2023-07-02 17:06:08 +0000"
     },
     "done": true
   },
-  "croptopia:gather_all": {
+  "croptopia:recipes/pepperoni": {
     "criteria": {
-      "tomato_seed": "2023-07-02 17:02:58 +0000",
-      "cucumber_seed": "2023-07-02 17:04:18 +0000",
-      "celery_seed": "2023-07-02 17:04:03 +0000",
-      "barley_seed": "2023-07-02 17:08:07 +0000",
-      "corn_seed": "2023-07-02 17:06:16 +0000"
+      "has_pepper": "2023-07-02 17:06:41 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "croptopia:recipes/misc/chile_pepper_seed": {
+    "criteria": {
+      "has_chile_pepper": "2023-07-02 17:06:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/broccoli_seed": {
+    "criteria": {
+      "has_broccoli": "2023-07-02 17:07:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stir_fry": {
+    "criteria": {
+      "has_broccoli": "2023-07-02 17:07:37 +0000"
+    },
+    "done": true
   },
   "croptopia:recipes/shaped_steamed_broccoli": {
     "criteria": {
@@ -3151,47 +3183,147 @@
     },
     "done": true
   },
-  "croptopia:getseeds": {
-    "criteria": {
-      "has_seeds": "2023-07-02 17:02:58 +0000"
-    },
-    "done": true
-  },
-  "croptopia:gather_plains": {
-    "criteria": {
-      "cucumber_seed": "2023-07-02 17:04:18 +0000",
-      "corn_seed": "2023-07-02 17:06:16 +0000",
-      "barley_seed": "2023-07-02 17:08:07 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/flour": {
-    "criteria": {
-      "has_grain": "2023-07-02 17:06:08 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/tomato_juice": {
-    "criteria": {
-      "has_tomato": "2023-07-02 17:02:58 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/orange_sapling": {
-    "criteria": {
-      "has_orange": "2023-07-02 17:05:54 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/orange_juice": {
-    "criteria": {
-      "has_orange": "2023-07-02 17:05:54 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/shaped_stir_fry": {
     "criteria": {
       "has_broccoli": "2023-07-02 17:07:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/barley_seed": {
+    "criteria": {
+      "has_barley": "2023-07-02 17:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2023-07-05 15:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2023-07-05 15:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-07-05 15:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-07-05 15:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-07-05 15:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-07-05 15:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-07-05 15:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-07-05 15:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2023-07-05 15:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2023-07-05 15:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2023-07-05 15:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2023-07-05 15:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2023-07-05 15:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2023-07-05 16:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2023-07-05 15:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2023-07-05 15:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2023-07-05 15:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2023-07-05 16:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2023-07-05 15:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2023-07-05 16:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2023-07-05 16:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2023-07-05 16:33:08 +0000"
     },
     "done": true
   },
