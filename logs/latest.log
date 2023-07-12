@@ -1,45 +1,45 @@
-[14:55:40] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.14.21
-[14:55:40] [main/INFO]: Loading 52 mods:
+[02:19:22] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.14.21
+[02:19:22] [main/INFO]: Loading 52 mods:
 	- carpet 1.4.112+v230608
-	- croptopia 2.3.0
+	- croptopia 2.3.2
 	   |-- com_typesafe_config 1.4.1
 	   |-- io_leangen_geantyref_geantyref 1.3.11
 	   |-- org_spongepowered_configurate-core 4.1.2
 	   \-- org_spongepowered_configurate-hocon 4.1.2
-	- fabric-api 0.84.0+1.20.1
+	- fabric-api 0.85.0+1.20.1
 	   |-- fabric-api-base 0.4.29+b04edc7a77
 	   |-- fabric-api-lookup-api-v1 1.6.34+4d8536c977
 	   |-- fabric-biome-api-v1 13.0.10+b3afc78b77
 	   |-- fabric-block-api-v1 1.0.9+e022e5d177
 	   |-- fabric-blockrenderlayer-v1 1.1.39+b3afc78b77
-	   |-- fabric-client-tags-api-v1 1.0.20+b3afc78b77
+	   |-- fabric-client-tags-api-v1 1.1.0+97bb207577
 	   |-- fabric-command-api-v1 1.2.32+f71b366f77
 	   |-- fabric-command-api-v2 2.2.11+b3afc78b77
 	   |-- fabric-commands-v0 0.2.49+df3654b377
 	   |-- fabric-containers-v0 0.1.61+df3654b377
-	   |-- fabric-content-registries-v0 4.0.7+b3afc78b77
+	   |-- fabric-content-registries-v0 4.0.8+b3afc78b77
 	   |-- fabric-convention-tags-v1 1.5.3+b3afc78b77
 	   |-- fabric-crash-report-info-v1 0.2.18+aeb40ebe77
-	   |-- fabric-data-generation-api-v1 12.1.11+b3afc78b77
+	   |-- fabric-data-generation-api-v1 12.1.12+b3afc78b77
 	   |-- fabric-dimensions-v1 2.1.51+b3afc78b77
 	   |-- fabric-entity-events-v1 1.5.21+b3afc78b77
 	   |-- fabric-events-interaction-v0 0.6.0+b3afc78b77
 	   |-- fabric-events-lifecycle-v0 0.2.61+df3654b377
 	   |-- fabric-game-rule-api-v1 1.0.38+b04edc7a77
 	   |-- fabric-item-api-v1 2.1.26+b3afc78b77
-	   |-- fabric-item-group-api-v1 4.0.7+b3afc78b77
+	   |-- fabric-item-group-api-v1 4.0.8+40e50c4677
 	   |-- fabric-key-binding-api-v1 1.0.36+fb8d95da77
 	   |-- fabric-keybindings-v0 0.2.34+df3654b377
 	   |-- fabric-lifecycle-events-v1 2.2.20+b3afc78b77
-	   |-- fabric-loot-api-v2 1.1.37+b3afc78b77
-	   |-- fabric-loot-tables-v1 1.1.41+9e7660c677
+	   |-- fabric-loot-api-v2 1.1.38+b3afc78b77
+	   |-- fabric-loot-tables-v1 1.1.42+9e7660c677
 	   |-- fabric-message-api-v1 5.1.6+b3afc78b77
-	   |-- fabric-mining-level-api-v1 2.1.47+b3afc78b77
+	   |-- fabric-mining-level-api-v1 2.1.48+b3afc78b77
 	   |-- fabric-models-v0 0.3.35+b3afc78b77
 	   |-- fabric-networking-api-v1 1.3.8+b3afc78b77
 	   |-- fabric-networking-v0 0.3.48+df3654b377
-	   |-- fabric-object-builder-api-v1 11.0.6+b3afc78b77
-	   |-- fabric-particles-v1 1.0.28+b3afc78b77
+	   |-- fabric-object-builder-api-v1 11.1.0+6beca84877
+	   |-- fabric-particles-v1 1.1.0+201a23a077
 	   |-- fabric-recipe-api-v1 1.0.18+b3afc78b77
 	   |-- fabric-registry-sync-v0 2.2.6+b3afc78b77
 	   |-- fabric-renderer-api-v1 3.1.0+c154966e77
@@ -50,217 +50,61 @@
 	   |-- fabric-rendering-v0 1.1.47+df3654b377
 	   |-- fabric-rendering-v1 3.0.6+b3afc78b77
 	   |-- fabric-resource-conditions-api-v1 2.3.5+ea08f9d877
-	   |-- fabric-resource-loader-v0 0.11.7+f7923f6d77
+	   |-- fabric-resource-loader-v0 0.11.8+e3d6ed2577
 	   |-- fabric-screen-api-v1 2.0.6+b3afc78b77
 	   |-- fabric-screen-handler-api-v1 1.3.27+b3afc78b77
 	   |-- fabric-sound-api-v1 1.0.12+b3afc78b77
-	   |-- fabric-transfer-api-v1 3.2.2+b3afc78b77
+	   |-- fabric-transfer-api-v1 3.2.3+43a3fedd77
 	   \-- fabric-transitive-access-wideners-v1 4.2.0+b3afc78b77
 	- fabricloader 0.14.21
 	- fatxporbs 2.0.1
 	- java 17
-	- journeymap 5.9.10
+	- journeymap 5.9.11
 	   \-- journeymap-api-fabric 1.20-1.9-fabric-SNAPSHOT
 	- lithium 0.11.2
 	- minecraft 1.20.1
 	- starlight 1.1.2+fabric.dbc156f
-[14:55:40] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/Minecraft_Server_20230612/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[14:55:40] [main/INFO]: Compatibility level set to JAVA_17
-[14:55:41] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 0 override(s) found
-[14:55:48] [main/WARN]: Method overwrite conflict for getConnection in fabric-networking-api-v1.mixins.json:accessor.ServerPlayNetworkHandlerAccessor from mod fabric-networking-api-v1, previously written by carpet.mixins.ServerGamePacketListenerImpl_coreMixin. Skipping method.
-[14:55:50] [main/INFO]: Initializing ServerSide Packet Registries
-[14:55:51] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:55:53] [main/INFO]: Loaded 7 recipes
-[14:55:53] [main/INFO]: Loaded 1639 advancements
-[14:55:54] [main/INFO]: Applied 190 biome modifications to 64 of 64 new biomes in 12.86 ms
-[14:55:54] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[14:55:54] [Server thread/INFO]: Loading properties
-[14:55:54] [Server thread/INFO]: Default game type: SURVIVAL
-[14:55:54] [Server thread/INFO]: Generating keypair
-[14:55:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:55:54] [Server thread/INFO]: Using epoll channel type
-[14:55:54] [Server thread/INFO]: Preparing level "world"
-[14:55:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:56:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:56:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:56:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:56:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:56:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:56:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:56:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:56:02] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[14:56:03] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[14:56:03] [Worker-Main-1/INFO]: Preparing spawn area: 15%
-[14:56:04] [Worker-Main-1/INFO]: Preparing spawn area: 45%
-[14:56:04] [Worker-Main-1/INFO]: Preparing spawn area: 99%
-[14:56:04] [Server thread/INFO]: Time elapsed: 6606 ms
-[14:56:04] [Server thread/INFO]: Done (10.279s)! For help, type "help"
-[14:58:37] [User Authenticator #1/INFO]: UUID of player JOBstear is 553ecaeb-bdf4-4ca8-9eaf-3cde433eaab4
-[14:58:37] [Server thread/INFO]: JOBstear[/[0:0:0:0:0:0:0:1%0]:48498] logged in with entity id 222 at (-159.6829689728872, 77.5625, -311.98382212554776)
-[14:58:37] [Server thread/INFO]: JOBstear joined the game
-[14:59:48] [User Authenticator #2/INFO]: UUID of player Kong_Yin is b7afebd3-3094-411d-af24-6f9344ba4f10
-[14:59:48] [Server thread/INFO]: Kong_Yin[/[0:0:0:0:0:0:0:1%0]:57762] logged in with entity id 484 at (-160.28706850320788, 77.5625, -312.08298336365306)
-[14:59:48] [Server thread/INFO]: Kong_Yin joined the game
-[15:07:07] [Server thread/INFO]: [JOBstear: Set the time to 1000]
-[15:07:36] [Server thread/INFO]: [Kong_Yin: Set own game mode to Creative Mode]
-[15:08:07] [Server thread/INFO]: [Kong_Yin: Set own game mode to Creative Mode]
-[15:08:09] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[15:08:29] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[15:08:38] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[15:08:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=134, y=56, z=36} class_2338{x=134, y=55, z=36}
-[15:09:06] [Server thread/INFO]: [JOBstear: Successfully filled 28 block(s)]
-[15:09:13] [Server thread/INFO]: [Kong_Yin: Teleported Kong_Yin to JOBstear]
-[15:10:46] [Server thread/INFO]: [JOBstear: Gave 64 [Grass Block] to JOBstear]
-[15:12:34] [Server thread/INFO]: [JOBstear: Gave 64 [Grass Block] to JOBstear]
-[15:13:33] [Server thread/INFO]: [JOBstear: Gave 64 [Glass] to Kong_Yin]
-[15:16:04] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[15:16:09] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[15:16:25] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[15:16:32] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[15:17:07] [Server thread/INFO]: [JOBstear: Set the time to 1000]
-[15:17:12] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[15:17:23] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[15:17:24] [Server thread/INFO]: [JOBstear: Applied effect Night Vision to JOBstear]
-[15:17:34] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[15:17:44] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[15:18:05] [Server thread/INFO]: [JOBstear: Successfully filled 567 block(s)]
-[15:18:51] [Server thread/INFO]: [JOBstear: Successfully filled 790 block(s)]
-[15:19:05] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[15:19:42] [Server thread/INFO]: [Kong_Yin: Teleported Kong_Yin to -4297.500000, 74.000000, -4265.500000]
-[15:19:44] [Server thread/INFO]: [JOBstear: Successfully filled 1178 block(s)]
-[15:19:57] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[15:20:31] [Server thread/INFO]: [JOBstear: Successfully filled 731 block(s)]
-[15:20:42] [Server thread/INFO]: [Kong_Yin: Teleported Kong_Yin to JOBstear]
-[15:20:46] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[15:21:20] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[15:21:47] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[15:21:48] [Server thread/INFO]: [JOBstear: Successfully filled 531 block(s)]
-[15:21:49] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[15:22:12] [Server thread/INFO]: [Kong_Yin: Teleported Kong_Yin to -4297.500000, 74.000000, -4265.500000]
-[15:22:20] [Server thread/INFO]: [JOBstear: Successfully filled 211 block(s)]
-[15:22:31] [Server thread/INFO]: [Kong_Yin: Teleported Kong_Yin to JOBstear]
-[15:22:36] [Server thread/INFO]: [JOBstear: Gave 64 [Glass] to Kong_Yin]
-[15:22:42] [Server thread/INFO]: [JOBstear: Gave 64 [Grass Block] to JOBstear]
-[15:24:22] [Server thread/INFO]: [Kong_Yin: Gave 1 [Brain Coral Fan] to Kong_Yin]
-[15:24:28] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[15:24:31] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[15:24:46] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[15:24:48] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[15:27:07] [Server thread/INFO]: [JOBstear: Set the time to 1000]
-[15:27:22] [Server thread/INFO]: [JOBstear: Gave 64 [Grass Block] to JOBstear]
-[15:28:16] [User Authenticator #3/INFO]: UUID of player JOBstear is 553ecaeb-bdf4-4ca8-9eaf-3cde433eaab4
-[15:28:16] [Server thread/INFO]: JOBstear lost connection: Disconnected
-[15:28:16] [Server thread/INFO]: JOBstear left the game
-[15:28:16] [Server thread/WARN]: handleDisconnection() called twice
-[15:28:16] [Server thread/INFO]: JOBstear[/[0:0:0:0:0:0:0:1%0]:50846] logged in with entity id 9274 at (-177.54281618441902, 63.0, -376.44712333008107)
-[15:28:16] [Server thread/INFO]: JOBstear joined the game
-[15:30:33] [Server thread/INFO]: [JOBstear: Gave 128 [Emerald] to JOBstear]
-[15:31:02] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[15:31:09] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[15:31:13] [Server thread/INFO]: JOBstear has made the advancement [What a Deal!]
-[15:32:13] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[15:32:17] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[15:33:50] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[15:33:53] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[15:34:51] [Server thread/INFO]: [JOBstear: Gave 128 [Bottle o' Enchanting] to JOBstear]
-[15:35:07] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[15:35:12] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[15:35:42] [Server thread/INFO]: [Kong_Yin: Teleported Wandering Trader to Kong_Yin]
-[15:36:07] [Server thread/INFO]: [JOBstear: Gave 128 [Bottle o' Enchanting] to JOBstear]
-[15:37:21] [Server thread/INFO]: [Kong_Yin: Set the time to 1000]
-[15:38:16] [Server thread/INFO]: [JOBstear: Gave 128 [Grass Block] to JOBstear]
-[15:41:45] [Server thread/INFO]: [JOBstear: Gave 1 [Vines] to JOBstear]
-[15:42:19] [Server thread/INFO]: [JOBstear: Gave 1 [Lava Bucket] to JOBstear]
-[15:43:52] [Server thread/INFO]: [JOBstear: Successfully filled 127 block(s)]
-[15:44:26] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[15:44:29] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[15:44:38] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[15:44:40] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[15:46:31] [Server thread/INFO]: [JOBstear: Successfully filled 37 block(s)]
-[15:47:30] [Server thread/INFO]: [JOBstear: Set the time to 1000]
-[15:47:38] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[15:47:42] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[15:49:33] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[15:50:25] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[15:50:28] [Server thread/INFO]: [Kong_Yin: Gave 64 [Lantern] to Kong_Yin]
-[15:50:38] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[15:50:42] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[15:51:00] [Server thread/INFO]: [JOBstear: Successfully filled 323 block(s)]
-[15:51:29] [Server thread/INFO]: [JOBstear: Successfully filled 147 block(s)]
-[15:52:11] [Server thread/INFO]: [JOBstear: Successfully filled 331 block(s)]
-[16:00:33] [Server thread/INFO]: [JOBstear: Set the time to 1000]
-[16:01:46] [Server thread/INFO]: [JOBstear: Successfully filled 337 block(s)]
-[16:02:11] [Server thread/INFO]: [JOBstear: Successfully filled 264 block(s)]
-[16:02:47] [Server thread/INFO]: [JOBstear: Successfully filled 255 block(s)]
-[16:03:32] [Server thread/INFO]: [JOBstear: Successfully filled 100 block(s)]
-[16:03:55] [Server thread/INFO]: [JOBstear: Set the weather to clear]
-[16:04:30] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:04:49] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:05:21] [Server thread/INFO]: [JOBstear: Successfully filled 448 block(s)]
-[16:07:57] [Server thread/INFO]: [JOBstear: Successfully filled 265 block(s)]
-[16:09:38] [Server thread/INFO]: [JOBstear: Successfully filled 595 block(s)]
-[16:10:41] [Server thread/INFO]: [JOBstear: Set the time to 1000]
-[16:10:59] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:11:11] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:11:47] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:11:54] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:12:52] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:13:07] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:13:23] [Server thread/INFO]: [JOBstear: Successfully filled 168 block(s)]
-[16:13:52] [Server thread/INFO]: [JOBstear: Gave 128 [Grass Block] to JOBstear]
-[16:14:27] [Server thread/INFO]: [JOBstear: Successfully filled 189 block(s)]
-[16:14:54] [Server thread/INFO]: [JOBstear: Successfully filled 111 block(s)]
-[16:15:17] [Server thread/INFO]: [JOBstear: Successfully filled 64 block(s)]
-[16:15:40] [Server thread/INFO]: [JOBstear: Successfully filled 83 block(s)]
-[16:16:10] [Server thread/INFO]: [JOBstear: Successfully filled 84 block(s)]
-[16:16:44] [Server thread/INFO]: [JOBstear: Successfully filled 65 block(s)]
-[16:17:01] [Server thread/INFO]: [JOBstear: Successfully filled 76 block(s)]
-[16:17:25] [Server thread/INFO]: [JOBstear: Successfully filled 52 block(s)]
-[16:17:42] [Server thread/INFO]: [JOBstear: Successfully filled 52 block(s)]
-[16:18:02] [Server thread/INFO]: [Kong_Yin: Gave 64 [Shroomlight] to Kong_Yin]
-[16:18:23] [Server thread/INFO]: [JOBstear: Successfully filled 363 block(s)]
-[16:18:35] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:18:40] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:18:44] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[16:18:47] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[16:19:11] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:19:12] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[16:19:15] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:19:16] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[16:19:28] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:19:36] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:19:59] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:20:11] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:20:41] [Server thread/INFO]: [JOBstear: Successfully filled 119 block(s)]
-[16:20:53] [Server thread/INFO]: [JOBstear: Set the time to 1000]
-[16:21:27] [Server thread/INFO]: [JOBstear: Successfully filled 30 block(s)]
-[16:26:01] [Server thread/INFO]: [Kong_Yin: Gave 64 [Rail] to Kong_Yin]
-[16:26:47] [Server thread/INFO]: [Kong_Yin: Gave 1 [Minecart] to Kong_Yin]
-[16:31:01] [Server thread/INFO]: [Kong_Yin: Set the time to 1000]
-[16:40:10] [Server thread/INFO]: [JOBstear: Successfully filled 384 block(s)]
-[16:40:48] [Server thread/INFO]: [Kong_Yin: Set the time to 1000]
-[16:40:57] [Server thread/INFO]: [JOBstear: Successfully filled 249 block(s)]
-[16:46:24] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[16:46:31] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[16:46:32] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[16:46:36] [Server thread/INFO]: [Kong_Yin: Set own game mode to Survival Mode]
-[16:48:57] [Server thread/INFO]: [Kong_Yin: Set own game mode to Spectator Mode]
-[16:49:56] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[16:50:00] [Server thread/INFO]: [JOBstear: Set own game mode to Survival Mode]
-[16:50:47] [Server thread/INFO]: [JOBstear: Set the time to 1000]
-[16:56:22] [Server thread/INFO]: [JOBstear: Set own game mode to Spectator Mode]
-[17:13:34] [Server thread/INFO]: JOBstear lost connection: Disconnected
-[17:13:34] [Server thread/INFO]: JOBstear left the game
-[17:13:47] [Server thread/INFO]: Stopping the server
-[17:13:47] [Server thread/INFO]: Stopping server
-[17:13:47] [Server thread/INFO]: Saving players
-[17:13:47] [Server thread/INFO]: Saving worlds
-[17:13:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:13:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:13:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:13:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:13:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:13:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:13:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:19:22] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/workspaces/Minecraft_Server_20230612/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[02:19:22] [main/INFO]: Compatibility level set to JAVA_17
+[02:19:22] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 0 override(s) found
+[02:19:30] [main/WARN]: Method overwrite conflict for getConnection in fabric-networking-api-v1.mixins.json:accessor.ServerPlayNetworkHandlerAccessor from mod fabric-networking-api-v1, previously written by carpet.mixins.ServerGamePacketListenerImpl_coreMixin. Skipping method.
+[02:19:32] [main/INFO]: Initializing ServerSide Packet Registries
+[02:19:32] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:19:35] [main/INFO]: Loaded 7 recipes
+[02:19:35] [main/INFO]: Loaded 1639 advancements
+[02:19:35] [main/INFO]: Applied 190 biome modifications to 64 of 64 new biomes in 13.48 ms
+[02:19:35] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[02:19:35] [Server thread/INFO]: Loading properties
+[02:19:35] [Server thread/INFO]: Default game type: SURVIVAL
+[02:19:35] [Server thread/INFO]: Generating keypair
+[02:19:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:19:36] [Server thread/INFO]: Using epoll channel type
+[02:19:36] [Server thread/INFO]: Preparing level "world"
+[02:19:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:19:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:19:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:19:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:19:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:19:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:19:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:19:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:19:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:19:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:19:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:19:44] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:19:45] [Worker-Main-2/INFO]: Preparing spawn area: 26%
+[02:19:45] [Worker-Main-3/INFO]: Preparing spawn area: 45%
+[02:19:46] [Worker-Main-3/INFO]: Preparing spawn area: 89%
+[02:19:46] [Server thread/INFO]: Time elapsed: 6632 ms
+[02:19:46] [Server thread/INFO]: Done (10.384s)! For help, type "help"
+[02:19:53] [Server thread/INFO]: Stopping the server
+[02:19:53] [Server thread/INFO]: Stopping server
+[02:19:53] [Server thread/INFO]: Saving players
+[02:19:53] [Server thread/INFO]: Saving worlds
+[02:19:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:19:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:19:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:19:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:19:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:19:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:19:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
